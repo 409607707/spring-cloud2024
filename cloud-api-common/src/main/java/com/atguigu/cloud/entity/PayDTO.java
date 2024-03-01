@@ -20,4 +20,5 @@ public class PayDTO implements Serializable {
   private Integer userId;
   //交易金额
   private BigDecimal amount;
+  
 }
